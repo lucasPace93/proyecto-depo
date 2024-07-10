@@ -12,3 +12,6 @@ segundo pull desde git:
     en esta ocacion, agregamos estas lineas de texto plano al archivo README desde Github, para bajarlas a Git directamente y modificarla para comprobar si aparecen los cambios correctamente.
 
 prueba de ssh
+
+se hizo el primer pull y pidio passphrase. 
+Vamos a realizar el primer push 
