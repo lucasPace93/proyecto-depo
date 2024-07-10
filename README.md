@@ -10,3 +10,5 @@ Primer Pull desde git:
 segundo pull desde git:
     anteriormente, utilizamos github desktop app para conectar github web app con git, y luego utilizamos la conexion por medio del url http con git remote. 
     en esta ocacion, agregamos estas lineas de texto plano al archivo README desde Github, para bajarlas a Git directamente y modificarla para comprobar si aparecen los cambios correctamente.
+
+prueba de ssh
